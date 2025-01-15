@@ -1,4 +1,4 @@
-# BadBuddy Backend
+# BadBuddy Backend (public version)
 
 A Go-based backend service for BadBuddy - a platform for managing sports venues, court bookings, and player sessions.
 
